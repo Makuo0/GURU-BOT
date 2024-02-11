@@ -51,8 +51,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'infex'
-global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.premium = 'false'
+global.packname = 'infex™️😎😎🌚💰❤️💟'
 global.author = '@Infex' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
