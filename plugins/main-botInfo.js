@@ -56,15 +56,15 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *INFEX*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/INFEXJAY
 ▢ GitHub :
-  • https://github.com/Guru322
+  • https://github.com/infexjay
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • t.me/i_want_to_be_isekaied (INFEX) 
 ▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • https://youtube.com/@iaminfex
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
